@@ -1,0 +1,14 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agadia jeffery",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
